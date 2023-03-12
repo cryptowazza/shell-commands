@@ -1,0 +1,5 @@
+alias df='df -H'
+alias du='du -ch'
+alias top='htop'
+alias vi='vim'
+alias wget='wget -c'
