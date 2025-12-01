@@ -1,5 +1,6 @@
 alias df='df -H'
 alias du='du -ch'
-alias top='htop'
-alias vi='vim'
+alias top='btop'
+alias vi='hx'
 alias wget='wget -c'
+alias ls='ls --color'
