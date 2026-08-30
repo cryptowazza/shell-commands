@@ -5,6 +5,8 @@ alias du1="du -hd 1"
 
 alias most='du -hsx * | sort -rh | head -10'
 
+alias rp='realpath'
+
 # ff: Find a file under the current directory
 # ff () { /usr/bin/find . -name "$@" 2>/dev/null; }
 
